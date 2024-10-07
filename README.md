@@ -1,6 +1,4 @@
-Sure! Here’s a complete README template for your CV remake project:
 
----
 
 # Curriculum Vitae Remake
 
